@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://p5m.me', status: 301, note: 'declared website redirects to https://url.tars.sh/404 — a different registrable domain (p5m.me -> tars.sh), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/p5m-project-management.png
 name: P5M Project Management
 description: P5M Project Management is a company surfaced as a portfolio company of 500-global and added
